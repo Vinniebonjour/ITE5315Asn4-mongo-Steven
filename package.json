@@ -1,0 +1,19 @@
+{
+  "name": "asn4-mongo-steven",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^7.1.2",
+    "express-static": "^1.2.6",
+    "express-validator": "^6.14.2",
+    "handlebars-helpers": "^0.10.0",
+    "mongoose": "^6.7.2"
+  },
+  "author": "Steven Ces",
+  "license": "ISC"
+}
